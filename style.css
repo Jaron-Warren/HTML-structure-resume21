@@ -1,3 +1,61 @@
-h1 {
-  color: plum;
+h1, h2, h3, p, body {
+  margin: 0;
 }
+.titletext {
+  font-size: 3rem;
+  color: aliceblue;
+}
+.bg-blue {
+  background-color: #1c4587;
+}
+.d-flex {
+  display: flex;
+}
+.d-flex.justify-center {
+  justify-content: center;
+}
+.d-flex.align-center {
+  align-items: center;
+}
+.sticky {
+  position: sticky;
+}
+.b-top {
+  border-top: 3px solid rgb(24, 23, 23);
+}
+.b2-top {
+  border-top: 1.5rem solid rgb(200, 194, 250);
+}
+.b-bottom {
+  border-bottom: 3px solid rgb(24, 23, 23);
+}
+.m-1 {
+  margin: 1rem;
+}
+.m-2 {
+  margin: 2rem;
+}
+.p-1 {
+  padding: .5rem;
+}
+.p-2 {
+  padding: 1rem;
+}
+.p-3 {
+  padding: 2rem;
+}
+.m-top-3 {
+  margin-top: 4rem;
+}
+.p-squeez {
+  padding: 0 5.5rem;
+}
+.height{
+  height: 82.5vh;
+}
+
+/* footer{
+  bottom: 0;
+  width: 100%;
+  height: 3rem;
+} */
