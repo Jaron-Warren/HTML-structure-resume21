@@ -9,3 +9,5 @@ Afternoon Challenge:
 CoolSite
 
 Students will demonstrate a basic understanding of HTML/CSS by replicating the following image in HTML/CSSCoolSite
+
+![Alt text](./csswarmup.jpg "csswarmup")
